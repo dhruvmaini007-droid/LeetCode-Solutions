@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0704-binary-search](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [1470-shuffle-the-array](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Hash Table
