@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0709-to-lower-case](https://github.com/dhruvmaini007-droid/LeetCode-Solutions/tree/main/0709-to-lower-case/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
